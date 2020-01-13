@@ -1,0 +1,12 @@
+NIP:=1
+Kwartal:=4
+Rok:=5
+KodUS:=6
+Cel:=7
+RodzajPodatnika:=8
+Nazwisko:=T1_1
+Imie:=T2_1
+DataUrodzenia:=T3_1
+PESEL:=T4_1
+NazwaPelna:=T1_1
+REGON:=T2_1

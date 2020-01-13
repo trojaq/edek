@@ -1,0 +1,13 @@
+NIP:=1
+Rok:=4
+KodUS:=5
+Cel:=6
+RodzajPodatnika:=7
+Nazwisko:=T1_8
+Imie:=T2_8
+DataUrodzenia:=T3_8
+PESEL:=T4_8
+NazwaPelna:=T1_8
+REGON:=T2_8
+
+
